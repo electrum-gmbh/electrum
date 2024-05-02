@@ -87,7 +87,7 @@ and [for macOS](contrib/osx/README_macos.md))_
 
 Check out the code from GitHub:
 ```
-$ git clone https://github.com/spesmilo/electrum.git
+$ git clone https://github.com/electrum-gmbh/electrum.git
 $ cd electrum
 $ git submodule update --init
 ```
